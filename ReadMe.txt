@@ -1,3 +1,11 @@
+Portifólio profissional
+
+Este é o código do meu portifólio profissional
+
+É uma base simples e bonitinha que você pode usar para fazer seu portifólio de forma rápida. 
+
+Essa página é inspirada no em:
+
 Free Bootstrap Resume/CV Template for developers
 
 Theme name:
