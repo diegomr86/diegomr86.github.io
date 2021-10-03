@@ -1,8 +1,6 @@
-Portifólio profissional
+Portifólio profissional de [Diego M. Rodrigues](https://diegomr86.github.io)
 
-Este é o código do meu portifólio profissional
-
-É uma base simples e bonitinha que você pode usar para fazer seu portifólio de forma rápida. 
+Usei este template pois é uma base simples e bonitinha que você pode usar para fazer seu portifólio de forma rápida. 
 
 Essa página é inspirada no em:
 
