@@ -46,6 +46,10 @@ p {
   line-height: 1.5;
 }
 
+.btn-success {
+  background: #009d6b;
+}
+
 .wrapper {
   background: #009d6b;
   max-width: 960px;
